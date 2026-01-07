@@ -1,0 +1,9 @@
+torch
+torchvision
+flask
+pillow
+numpy
+opencv-python
+unicodedata2
+google-generativeai
+pandas
